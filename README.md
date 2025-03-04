@@ -9,3 +9,6 @@ so in this repository we have four python code files, the objective is to prove 
 -> the third about the moon landing possibilities 
 
 -> the fourth about the blue whale survival changes
+
+
+the ml models are usually simple models examples
