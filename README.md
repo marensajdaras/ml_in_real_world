@@ -12,3 +12,5 @@ so in this repository we have four python code files, the objective is to prove 
 
 
 the ml models are usually simple models examples
+
+like binary classification 
