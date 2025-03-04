@@ -7,3 +7,5 @@ so in this repository we have four python code files, the objective is to prove 
 -> the second about the car oil spending 
 
 -> the third about the moon landing possibilities 
+
+-> the fourth about the blue whale survival changes
